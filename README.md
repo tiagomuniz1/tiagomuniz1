@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on <a href="https://www.linkedin.com/company/mesa-mobile-thinking/mycompany/" target="_blank">Mesa Mobile Thinking</a>
 - 📫 How to reach me: 
   - <a href="mailto:tiagomuniz1@gmail.com">tiagomuniz1@gmail.com</a>
