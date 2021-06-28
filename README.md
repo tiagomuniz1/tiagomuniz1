@@ -12,11 +12,13 @@ I have worked with many technologies and methodologies, among them: Scrum, Agile
 As programmer I had worked at Webinterativa ( stared as Junior and get out as senior web developer ), Jornal do Commercio ( Senior Backend Developer ), Ogilvy Mather ( Senior Backend Developer ), Volts Studio, which I am the founder, The Digital Strategy Company as a Senior Full Stack Developer, at ThoughtWorks as a Senior Consultant Developer and at Mesa Mobile Thinking as a Specialist Software Developer.
 
 
-- 📫 How to reach me: 
+📫  How to reach me: 
+
   - <a href="mailto:tiagomuniz1@gmail.com">tiagomuniz1@gmail.com</a>
   - <a href="tel:+5581997869650">+5581997869650</a>
   - <a href="https://www.linkedin.com/in/tiago-de-andrade-muniz/" target="_blank">LinkedIN</a>
-- 😄 Pronouns: He / Him / His
+  
+😄  Pronouns: He / Him / His
 
 
 <!--
